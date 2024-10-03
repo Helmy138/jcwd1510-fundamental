@@ -42,3 +42,8 @@ console.log(sum);
 
 
 // NO 5 //
+
+
+console.log(a);
+console.log(a);
+
